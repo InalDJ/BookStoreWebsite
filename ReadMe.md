@@ -2,7 +2,7 @@ This is a project in terms of a course from Udemy.com
 Here is a link to the course: https://www.udemy.com/course/java-servlet-jsp-and-hibernate-build-a-complete-website/
 
 This is a website for selling books online.
-Technologies used: Java Servlet, JSP, Persistence API, Hibernate, Maven, jquery, MySQL, HTML, CSS, Jquery, JavaScript, Tomcat server, Junit4, jstl.
+Technologies used: Java Servlet, JSP, Persistence API, Hibernate, Maven, MySQL, HTML, CSS, Jquery, JavaScript, Tomcat server, Junit4, jstl.
 
 The project hasn't been finished yet but some parts of it function normally.
 
